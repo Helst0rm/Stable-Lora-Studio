@@ -1,0 +1,13 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Local configuration
+config/sls_config.json
+config/prompt_manifest.json
+config/batch_progress.txt
+config/abort_signal.txt
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
