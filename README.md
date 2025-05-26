@@ -11,7 +11,7 @@
 ## Requirements
 - Python 3.10+
 - A running Stable Diffusion instance with the WebUI API (`http://localhost:7860`)
-- API and Listen command args (--api --listen) for your version of Stable Diffusion (A111, Forge, Reforge, etc)
+- API and Listen command args (--api --listen) for your version of Stable Diffusion (A1111, Forge, Reforge, etc)
 
 ## Installation
 Clone the repo:
